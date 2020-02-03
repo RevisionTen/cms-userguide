@@ -38,4 +38,43 @@ Dazu klickt man auf den Versionierungs-Button und kann auswählen, ob man die le
  Bei der letzten Änderung wird nur die letzte ausgeführte Aktion rückgängig gemacht. 
  Bei der vorherigen Version kann zu einem beliebigen Stand der Webseite zurückgesprungen werden und
  beim Änderungen verwerfen werden alle Änderungen bis zur letzten Version verworfen. 
+### Seiteneinstellungen ändern
+![enter image description here](images/site-options-edit.png)
+Per Klick auf den Bearbeitungs-Button wird das Fenster aus Kapitel 3. [Seiten erstellen](Seiten-erstellen.md) aufgerufen, 
+in dem die dort eingetragenen Einstellungen geändert werden können.
 
+### Seite optimieren
+![enter image description here](images/optimize.png)
+Per Klick auf den Optimieren-Button wird die Performance im Backend-Bereich verbessert. 
+Nach dem Klick verschwindet dieser Button. Wird der Button nicht angezeigt, 
+besteht also auch kein Optimierungsbedarf.
+
+### Seite duplizieren
+![enter image description here](images/duplicate-site.png)
+Per Klick auf den Duplizieren-Button wird die Seite auf der man sich befindet dupliziert.
+Man befindet sich sofort auf der duplizierten Seite und kann mit der Bearbeitung dieser starten. 
+Ziemlich praktisch, wenn man viele Seiten mit gleichem Layout erstellen möchte!
+
+### Seite löschen
+![enter image description here](images/delete-site.png)
+Per Klick auf den Löschen-Button wird die Seite entfernt. 
+No shit Sherlock!
+
+### Änderungen übernehmen 
+![enter image description here](images/save-changes.png)
+Damit zu jedem Änderungsstadium zugesprungen werden kann, müssen Änderungen übernommen werden und mit
+ einer Beschreibung versehen werden, damit unterscheidbar ist, was beim jeweiligen Änderungsschritt gemacht wurde. 
+ Dazu klickt man auf den großen grünen Änderung-übernehmen-Button, der sich rechts oben im Browserfenster befindet. 
+Dadurch öffnet sich ein Fenster, in das die Änderungsbeschreibung eingetragen werden muss.
+
+### Veröffentlichen
+![enter image description here](images/publish.png)
+Wenn die Änderungen übernommen wurde, muss die Webseite noch veröffentlicht werden,
+ damit sie für den Nutzer auch sichtbar ist. Das macht man ganz einfach über den großen 
+ grünen Veröffentlichen-Button, der nun anstelle des Änderungen-übernehmen-Buttons angezeigt wird. 
+ 
+### Unveröffentlichen
+![enter image description here](images/unpublish.png)
+Das Veröffentlichen kann auch wieder rückgängig gemacht werden.
+Dazu muss eine Seite jedoch erst veröffentlicht sein.
+ Per Klick auf den großen roten Button oben rechts im Browserfenster wird die entsprechende Seite unveröffentlicht. 
