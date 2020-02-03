@@ -9,6 +9,7 @@
 6. [Seiteninhalte bearbeiten](Seiteninhalte-bearbeiten.md) 
 7. [Archiv](Archiv.md)
 8. [Pfade](Pfade.md)
+9. [Dateien](Dateien.md)
 
  
 
