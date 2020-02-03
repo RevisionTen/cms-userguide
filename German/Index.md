@@ -8,6 +8,7 @@
 5. [Seiteninhalte einfügen](Seiteninhalte-einfuegen.md)
 6. [Seiteninhalte bearbeiten](Seiteninhalte-bearbeiten.md) 
 7. [Archiv](Archiv.md)
+8. [Pfade](Pfade.md)
 
  
 
