@@ -34,5 +34,4 @@ Per Klick auf den Bearbeitungs-Button öffnet sich das jeweilige Element-Menü, 
 Per Klick auf das Kreuz wird das jeweilige Element gelöscht.
 
 
-> Written with [StackEdit](https://stackedit.io/).
 

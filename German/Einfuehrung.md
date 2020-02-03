@@ -7,5 +7,4 @@ Das CMS bietet einen PageBuilder. Webseiten können dadurch ohne Programmierkenn
 Änderungen sind jederzeit korrigier- und nachvollziehbar. Es kann bei der Benutzung nichts versehentlich „zerstört“ werden, weil jederzeit zu einem beliebigen früheren, gespeicherten Punkt zurückgegangen werden kann.
 
 
-> Written with [StackEdit](https://stackedit.io/).
 

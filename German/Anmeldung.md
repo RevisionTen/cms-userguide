@@ -7,5 +7,3 @@ Wir haben euch eine Seite eingerichtet und ihr habt keine Lust wegen kleinen Än
 Hier gibt man einfach seine Anmeldedaten ein und muss je nach Konfiguration noch eine zweite Authentifikation durchführen wie z. B. durch einen Code, der per Mail, oder 2-Wege-Authentifikationssysteme bereitgestellt wird. 
 
 
-> Written with [StackEdit](https://stackedit.io/).
-

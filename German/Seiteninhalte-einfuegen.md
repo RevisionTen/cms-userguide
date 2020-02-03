@@ -76,5 +76,3 @@ Das letzte Standardelement lautet **YouTube**. Dieses Element kann ganz einfach 
 ![enter image description here](images/add-youtube.png)
 Dabei kann auch im Vorfeld eine Opt-In vom User erforderlich gemacht werden. Der User muss dann im Vorfeld erst das Video auf der Webseite aktivieren.
 
-> Written with [StackEdit](https://stackedit.io/).
-
