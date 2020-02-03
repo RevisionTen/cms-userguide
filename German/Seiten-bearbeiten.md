@@ -2,7 +2,10 @@
 # RevisionTen Dokumentation
 
 ## 4. Ich möchte die Seite bearbeiten!
-Falls man die vorher festgelegten Einstellungen ändern möchte 
+Die vorher festgelegten Einstellungen können ganz einfach geändert werden, 
+indem in der Seitendetailansicht auf die Kopfleiste geklickt wird:
+![enter image description here](images/edit-bar.png)
 
-> Written with [StackEdit](https://stackedit.io/).
+ 
+
 
