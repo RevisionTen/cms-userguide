@@ -6,8 +6,10 @@
 3. [Seiten erstellen](Seiten-erstellen.md)
 4. [Seiten bearbeiten](Seiten-bearbeiten.md) 
 5. [Seiteninhalte einfügen](Seiteninhalte-einfuegen.md)
-6. [Seiteninhalte bearbeiten](Seiteninhalte-bearbeiten.md)
+6. [Seiteninhalte bearbeiten](Seiteninhalte-bearbeiten.md) 
+7. [Archiv](Archiv.md)
 
+ 
 
 
 
