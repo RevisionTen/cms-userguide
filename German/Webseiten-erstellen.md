@@ -20,4 +20,8 @@ Wird auf den Änderungen-speichern-Button geklickt, gelangt man zur Webseitenüb
 ![enter image description here](images/new-website-menu.png)
 Wurde ein Benutzer der Webseite zugeteilt, kann nun die neue Webseite im Menü rechts oben ausgewählt werden 
 und Menüs, Unterseiten, usw. zu dieser Webseite erstellt werden.
+### Webseiten bearbeiten
+![enter image description here](images/edit-website-menu.png)
+Wird auf den Bearbeiten-Button einer Webseite in der Webseitenübersicht geklickt, öffnet sich ein Fenster, 
+das dem Fenster der Webseitenerstellung entspricht und die gleichen Einstellungsmöglichkeiten bietet. 
  
