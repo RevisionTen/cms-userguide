@@ -42,3 +42,16 @@ per Drag-and-Drop eine Ebene tiefer an einen anderen Menüpunkt geschachtelt wer
 zufrieden, klickt man auf "Menüstruktur-speichern". 
 Im Frontend sieht das Menü dann wie folgt aus:
 ![enter image description here](images/dropdown-menu-frontend.png)
+
+### Menü bearbeiten
+Menüunterpunkte können entweder am Steuerkreuz per Drag-and-Drop verschoben werden oder mit den Pfeilen nach oben bzw. nach unten geschoben werden. 
+![enter image description here](images/add-new-menu-item-dropdown.png)
+Per Klick auf den Plus-Button kann ein Menüpunkt eine Ebene tiefer, also als Unterpunkt eines Dropdown-Menüs hinzugefügt werden.
+![enter image description here](images/hide-menu-item.png)
+Um einen Menüpunkt auszublenden, klickt man ganz einfach auf das Auge. 
+![enter image description here](images/show-menu-item.png)
+Um den Menüpunkt wieder einzublenden, klickt man einfach auf das rote durchgestrichene Auge.
+![enter image description here](images/edit-menu-item.png)
+Um einen Menüpunkt zu bearbeiten, muss der Bearbeiten-Button geklickt werden. Es öffnet sich ein Menü, das dem Menü beim Hinzufügen eines Menüspunkts entspricht. 
+![enter image description here](images/delete-menu-item.png)
+Per Klick auf den roten Eimer kann ein Menüpunkt gelöscht werden.   
