@@ -10,8 +10,8 @@ Ein Formular muss hier angelegt werden, damit es auf der Webseite als Element ve
 Es öffnet sich ein Fenster, in dem Einstellungen für Formulare vorgenommen werden können. Dabei kann der 
 1. Titel, 
 2. die direkten Empfänger, 
-3. der CC (carbon copy), 
-4. der BCC (black carbon copy), 
+3. der CC (Kopie), 
+4. der BCC (Blindkopie), 
 5. der Absender, 
 6. das Zeitlimit (wann darf derselbe Benutzer erneut ein Formular absenden), 
 7. die Zeitlimit-Nachricht (was wird angezeigt, wenn der Benutzer versucht ein Formular zu senden, obwohl noch nicht genug Zeit vergangen ist), 
