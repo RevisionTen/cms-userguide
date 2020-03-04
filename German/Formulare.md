@@ -38,12 +38,38 @@ Soll man in das Feld seine Straße eintragen, so muss der Name des Feldes: stras
 Als nächstes muss sich entschieden werden, ob das Feld ein Pflichtfeld sein soll. Setzt man bei diesem Feld ein Häkchen, kann das Formular nicht versendet werden, wenn dieses Feld nicht korrekt ausgefüllt ist. 
 Setzt man das Häkchen bei Sperren, kann kein Wert in das Feld. In den meisten Formularen ist diese Funktion nicht notwendig und sollte mit Bedacht gesetzt werden (Werden die Häkchen bei Sperren und Pflichtfeld gesetzt ist das Formular schon nicht mehr abschickbar - deswegen ist dort Vorsicht geboten).  
 Als nächstes kann der Haken bei Beschriftung ausblenden gesetzt werden. Ist dieses Häkchen gesetzt, wird die oben eingetragene Beschriftung ausgeblendet. Aus Usibility-Gründen sollte man dies lassen, jedoch möchten viele die Beschriftung ausblenden um Platz zu sparen.
-In das nächste Feld kann ein Tipp eingetragen werden. Dieses Feld kann mittels einen Bootstrap-Popvers angesprochen werden. 
+In das nächste Feld kann ein Tipp eingetragen werden. Dieses Feld kann mittels einen Bootstrap-Popovers angesprochen werden. 
 ![enter image description here](images/placeholder-frontend-text.png)
 Der Platzhaltertext, der im nächsten Feld eingetragen werden kann, wird im Frontend im jeweiligen Feld angezeigt, wenn man noch nichts ins Feld eingetragen hat. 
 In den nächsten beiden Feldern können die Minimal-und Maximallänge der Eingabe eingetragen werden. Dadurch kann zum Beispiel verhindert werden, dass ein Formular abgeschickt wird in dessen Namenszeile ein 23453546451346 zeichenlanger Name steht.
 Wird das Häkchen bei "Dieses Feld als Betreffzeile verwenden" gesetzt, wird der Inhalt des Textfeldes in die Betreffzeile der Mail geschrieben, welche durch die Formularsendung ausgeführt wird.
 Über die letzten beiden Checkboxen kann eingestellt werden, ob dieses Feld in der Mail als Absender Vorname oder Nachname verwendet werden soll.
 
-Wurden alle Einstellungen getätigt, kann auf Speichern geklickt werden und das Formularfeld wird dem erstellten Formularfeld hinzugefügt.
 ![enter image description here](images/updated-form-field.png)
+Wurden alle Einstellungen getätigt, kann auf Speichern geklickt werden und das Formularfeld wird dem erstellten Formularfeld hinzugefügt.
+
+### Formular: Langes Textfeld hinzufügen
+
+![enter image description here](images/add-formular-long-text.png)
+
+Um ein langes Textfeld (z.B. das Textfeld einer Nachricht) hinzuzufügen, muss auf den Langes-Textfeld-Button geklickt werden. 
+
+![enter image description here](images/formular-textarea-detail.png)
+
+Die Eingabemöglichkeiten entsprechen größtenteils der des einzeiligen Textfeldes. 
+Das lange Textfeld ist für längere Eingaben gedacht. Gängige Beschriftungen dafür könnten z. B. "Ihre Nachricht:" sein. Ein passender Name wäre so etwas wie: "message". (Dabei sollte aber darauf geachtet werden, dass die Namen unterschiedlich gewählt werden wie zum einzeiligen Textfeld.)
+
+  ![enter image description here](images/formular-long-text-frontend.png)
+  
+  So sieht das lange Textfeld im Frontend aus. 
+### Formular: Email hinzufügen
+  ![enter image description here](images/add-formular-email.png)
+
+Um ein Email-Feld (z.B. das Feld in das man eine Email eintragen soll) hinzuzufügen, muss auf Email-Button geklickt werden. 
+
+![enter image description here](images/formular-email-detail.png)
+
+Die Eingabemöglichkeiten entsprechen größtenteils der des einzeiligen Textfeldes. 
+Gängige Beschriftungen hierfür lauten so etwas wie: "Ihre Email-Adresse" und der dazugehörige Name würde: "email" lauten. 
+Ansonsten unterscheiden sich die Einstellungsmöglichkeiten nur in den Checkboxen. 
+Setzt man das Häkchen bei "dieses Feld als Empfänger" kann dem Kunden (sofern er seine E-Mail richtig eingetragen hat) auch eine Bestätigungsemail gesendet werden, dass das Kontaktformular erfolgreich gesendet wurde. Dabei muss jedoch beachtet werden, dass die entsprechende Zieladresse in den Formulareinstellungen in den BCC mit aufgenommen wird. (Diese Option wird nicht empfohlen und ist nur der Vollständigkeit halber mit aufgenommen.)
