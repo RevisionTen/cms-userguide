@@ -73,3 +73,8 @@ Die Eingabemöglichkeiten entsprechen größtenteils der des einzeiligen Textfel
 Gängige Beschriftungen hierfür lauten so etwas wie: "Ihre Email-Adresse" und der dazugehörige Name würde: "email" lauten. 
 Ansonsten unterscheiden sich die Einstellungsmöglichkeiten nur in den Checkboxen. 
 Setzt man das Häkchen bei "dieses Feld als Empfänger" kann dem Kunden (sofern er seine E-Mail richtig eingetragen hat) auch eine Bestätigungsemail gesendet werden, dass das Kontaktformular erfolgreich gesendet wurde. Dabei muss jedoch beachtet werden, dass die entsprechende Zieladresse in den Formulareinstellungen in den BCC mit aufgenommen wird. (Diese Option wird nicht empfohlen und ist nur der Vollständigkeit halber mit aufgenommen.)
+
+![enter image description here](images/formular-email-frontend.png)
+So sieht das Email-Feld im Frontend aus.
+
+### Formular: Checkbox hinzufügen
