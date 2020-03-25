@@ -84,3 +84,17 @@ Um eine Checkbox (z.B. eine Box womit ABGs akzeptiert werden können) hinzuzufü
 Einer Checkbox können nur die Eigenschaften: Beschriftung, Name, Pflichtfeld und Sperrung gegeben werden. Um beim Beispiel zu bleiben, würde man hier für die Beschriftung: ABGs, für den Namen: agb eintragen und das Pflichtfeld abhaken. Die Sperrung würde nicht gesetzt werden, da man in diesem Fall möchte, dass man die Checkbox im Frontend abhaken können soll. 
 ![enter image description here](images/checkbox-frontend.png)
 Per Klick auf den Speichern-Button, ist die Checkbox nun auch im Frontend sichtbar.
+### Formular: Auswahl hinzufügen
+![enter image description here](images/add-select.png)
+Um eine Auswahl(liste) (z.B. eine Liste aus der eine Kleidergröße ausgewählt werden kann) hinzuzufügen, muss auf den Auswahl-Button geklickt werden. 
+![enter image description here](images/add-select-detail.png)
+Es öffnet sich ein Fenster, in welchem die verschiedenen Einstellungsmöglichkeiten zu diesem Feld eingetragen werden können. Die meisten Eigenschaften sind analog zu den übrigens Felders zu sehen. Um beim Beispiel zu bleiben würde man als Beschriftung: Kleidergröße wählen und als Name: size
+Eine Besonderheit stellt hier das Auswahlen-Feld dar.
+![enter image description here](images/selections-detail.png)
+Hier können die verschiedenen Optionen, die man auswählen kann, eingetragen werden. Zuerst wird der Wert eingetragen und mit einer | (wird pipe ausgesprochen) von der Beschriftung getrennt. Um mehrere Optionen einzufügen, trennt man die einzelnen Eingaben mit einem Umbruch (Enter-Taste). Um beim Beispiel zu bleiben, trägt man also s|Small, m|Medium und l|Large jeweils getrennt mit einer Enter-Taste ein und erhält im Frontend dieses hier: 
+![enter image description here](images/select-frontend.png)
+Der Klick auf die "Als Optionsfelder/Checkboxen anzeigen"-Checkbox verändert die Anzeige im Frontend wie folgt:
+![enter image description here](images/options-frontend.png)
+Mit dem Anhaken der "Mehrfachauswahl erlauben"-Checkbox können mehrere Optionen gleichzeitig angehakt werden. 
+Mit der letzten Checkbox kann eingestellt werden, ob die Auswahl als Empfänger verwendet werden soll. Das würde allerdings nur Sinn ergeben, wenn die Auswahlliste aus Emails oder Namen besteht. 
+Per Klick auf den Speichern-Button, ist die Auswahl nun auch im Frontend sichtbar.
