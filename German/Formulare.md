@@ -78,3 +78,9 @@ Setzt man das Häkchen bei "dieses Feld als Empfänger" kann dem Kunden (sofern 
 So sieht das Email-Feld im Frontend aus.
 
 ### Formular: Checkbox hinzufügen
+![enter image description here](images/add-checkbox.png)
+Um eine Checkbox (z.B. eine Box womit ABGs akzeptiert werden können) hinzuzufügen, muss auf Checkbox-Button geklickt werden. 
+![enter image description here](images/add-checkbox-detail.png)
+Einer Checkbox können nur die Eigenschaften: Beschriftung, Name, Pflichtfeld und Sperrung gegeben werden. Um beim Beispiel zu bleiben würde man hier für die Beschriftung: ABGs, für den Namen: agb eintragen und das Pflichtfeld abhaken. Die Sperrung würde nicht gesetzt werden, da man in diesem Fall möchte, dass man die Checkbox im Frontend abhaken können soll. 
+![enter image description here](images/checkbox-frontend.png)
+Per Klick auf den Speichern-Button, ist die Checkbox nun auch im Frontend sichtbar.
