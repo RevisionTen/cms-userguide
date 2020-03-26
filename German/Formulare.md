@@ -117,3 +117,10 @@ Um ein verstecktes Feld (z.B. wenn man Daten mit einem Formular senden möchte, 
 ![enter image description here](images/add-hidden-detail.png)
 Es öffnet sich ein Fenster, in welchem die verschiedenen Einstellungsmöglichkeiten zu diesem Feld eingetragen werden können. Um beim Beispiel zu bleiben, würde man als Beschriftung: Fahrzeugname wählen und als Name: car. Im Frontend sieht das versteckte Feld so aus:
 ![enter image description here](images/hidden-frontend.png) 🤯
+### Formular: Senden-Button hinzufügen
+![enter image description here](images/add-send.png)
+Um einen Senden-Button (der Knopf, der das Formular letzten Endes versendet) hinzuzufügen, muss auf den Senden-Button-Button 🧐 geklickt werden. 
+![enter image description here](images/add-hidden-detail.png)
+Es öffnet sich ein Fenster, in welchem die verschiedenen Einstellungsmöglichkeiten zu diesem Feld eingetragen werden können. Als Beschriftung trägt man den Text ein, der auf dem Knopf stehen soll. In diesem Fall wurde: Formular rausfeuern gewählt. Als Name kann z. B. send verwendet werden. Im Frontend sieht der Button so aus:
+![enter image description here](images/send-frontend.png)
+Wenn nach kurzer Zeit die Nachricht angezeigt wird, die zu Beginn als Bestätigungsnachricht eingetragen wurde, wurde das Formular versandt und kann, falls in den Formulareinstellungen - Einsendungen speichern - gewählt wurde, nun unter der Kategorie: Struktur unter dem Reiter: Einsendungen eingesehen werden.
