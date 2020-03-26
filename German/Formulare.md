@@ -3,7 +3,7 @@
 ![enter image description here](images/add-formular.png)
 In der Sidebar unter der Kategorie: Struktur ist der Reiter: Formulare zu finden. 
 Hier können Formulare erstellt und bearbeitet werden. 
-Um ein Menü zu erstellen muss der grüne Formular-erstellen-Button geklickt werden. 
+Um ein Formular zu erstellen muss der grüne Formular-erstellen-Button geklickt werden. 
 Ein Formular muss hier angelegt werden, damit es auf der Webseite als Element verfügbar ist.
 ![enter image description here](images/add-form-detail.png)
 ![enter image description here](images/add-form-detail-2.png)
