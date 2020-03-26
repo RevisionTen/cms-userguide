@@ -105,3 +105,15 @@ Um eine Inhalts-Auswahl(liste) (z.B. eine Liste aus der Filialen ausgewählt wer
 Es öffnet sich ein Fenster, in welchem die verschiedenen Einstellungsmöglichkeiten zu diesem Feld eingetragen werden können. Die meisten Eigenschaften sind analog zu den übrigen Feldern zu sehen. Um beim Beispiel zu bleiben, würde man als Beschriftung: Filialen wählen und als Name: branch
 Eine Besonderheit stellt hier das Feld: Inhaltstyp dar. 
 Wenn es beispielsweise 30 Filialen gibt, möchte man die nicht manuell eintragen müssen. Ein fachkundiger IT-Mensch Ihrer Wahl kann diese Filialen als Entitäten im Backend hinterlegen. Dadurch können die Filialen dann über das Feld: Inhaltstyp ausgewählt werden und müssen nicht wie bei dem Formularfeld: Auswahl alle manuell eingetragen werden. Die übrigen Einstellungsmöglichkeiten entsprechen jedoch denen des Auswahl-Formularfeldes. 
+### Formular: Markup hinzufügen
+![enter image description here](images/add-markup.png)
+Um eine Inhalts-Auswahl(liste) (z.B. ein einfacher Informationstext innerhalb eines Formulars) hinzuzufügen, muss auf den Markup-Button geklickt werden. 
+![enter image description here](images/add-markup-detail.png)
+Es öffnet sich ein Fenster, in welchem die verschiedenen Einstellungsmöglichkeiten zu diesem Feld eingetragen werden können. Die meisten Eigenschaften sind analog zu den übrigen Feldern zu sehen. Um beim Beispiel zu bleiben, würde man als Beschriftung: Infotext wählen und als Name: info. In das Markup-Feld trägt man den eigentlichen Text ein, da standardmäßig weder Beschriftung noch Name angezeigt werden. Im Frontend sieht das Markup-Feld so aus:
+![enter image description here](images/markup-frontend.png)
+### Formular: Verstecktes Feld hinzufügen
+![enter image description here](images/add-hidden.png)
+Um ein verstecktes Feld (z.B. wenn man Daten mit einem Formular senden möchte, die der Sender nicht ändern können soll - hier kann bspw. eine Seiten-URL oder ein Fahrzeugname gespeichert werden) hinzuzufügen, muss auf den Verstecktes-Feld-Button geklickt werden. 
+![enter image description here](images/add-hidden-detail.png)
+Es öffnet sich ein Fenster, in welchem die verschiedenen Einstellungsmöglichkeiten zu diesem Feld eingetragen werden können. Um beim Beispiel zu bleiben, würde man als Beschriftung: Fahrzeugname wählen und als Name: car. Im Frontend sieht das versteckte Feld so aus:
+![enter image description here](images/hidden-frontend.png) 🤯
