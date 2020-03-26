@@ -88,7 +88,7 @@ Per Klick auf den Speichern-Button, ist die Checkbox nun auch im Frontend sichtb
 ![enter image description here](images/add-select.png)
 Um eine Auswahl(liste) (z.B. eine Liste aus der eine Kleidergröße ausgewählt werden kann) hinzuzufügen, muss auf den Auswahl-Button geklickt werden. 
 ![enter image description here](images/add-select-detail.png)
-Es öffnet sich ein Fenster, in welchem die verschiedenen Einstellungsmöglichkeiten zu diesem Feld eingetragen werden können. Die meisten Eigenschaften sind analog zu den übrigens Felders zu sehen. Um beim Beispiel zu bleiben würde man als Beschriftung: Kleidergröße wählen und als Name: size
+Es öffnet sich ein Fenster, in welchem die verschiedenen Einstellungsmöglichkeiten zu diesem Feld eingetragen werden können. Die meisten Eigenschaften sind analog zu den übrigen Feldern zu sehen. Um beim Beispiel zu bleiben, würde man als Beschriftung: Kleidergröße wählen und als Name: size
 Eine Besonderheit stellt hier das Auswahlen-Feld dar.
 ![enter image description here](images/selections-detail.png)
 Hier können die verschiedenen Optionen, die man auswählen kann, eingetragen werden. Zuerst wird der Wert eingetragen und mit einer | (wird pipe ausgesprochen) von der Beschriftung getrennt. Um mehrere Optionen einzufügen, trennt man die einzelnen Eingaben mit einem Umbruch (Enter-Taste). Um beim Beispiel zu bleiben, trägt man also s|Small, m|Medium und l|Large jeweils getrennt mit einer Enter-Taste ein und erhält im Frontend dieses hier: 
@@ -98,3 +98,10 @@ Der Klick auf die "Als Optionsfelder/Checkboxen anzeigen"-Checkbox verändert di
 Mit dem Anhaken der "Mehrfachauswahl erlauben"-Checkbox können mehrere Optionen gleichzeitig angehakt werden. 
 Mit der letzten Checkbox kann eingestellt werden, ob die Auswahl als Empfänger verwendet werden soll. Das würde allerdings nur Sinn ergeben, wenn die Auswahlliste aus Emails oder Namen besteht. 
 Per Klick auf den Speichern-Button, ist die Auswahl nun auch im Frontend sichtbar.
+### Formular: Inhalts-Auswahl hinzufügen
+![enter image description here](images/add-content-select.png)
+Um eine Inhalts-Auswahl(liste) (z.B. eine Liste aus der Filialen ausgewählt werden können) hinzuzufügen, muss auf den Auswahl-Button geklickt werden. 
+![enter image description here](images/add-content-select-detail.png)
+Es öffnet sich ein Fenster, in welchem die verschiedenen Einstellungsmöglichkeiten zu diesem Feld eingetragen werden können. Die meisten Eigenschaften sind analog zu den übrigen Feldern zu sehen. Um beim Beispiel zu bleiben, würde man als Beschriftung: Filialen wählen und als Name: branch
+Eine Besonderheit stellt hier das Feld: Inhaltstyp dar. 
+Wenn es beispielsweise 30 Filialen gibt, möchte man die nicht manuell eintragen müssen. Ein fachkundiger IT-Mensch Ihrer Wahl kann diese Filialen als Entitäten im Backend hinterlegen. Dadurch können die Filialen dann über das Feld: Inhaltstyp ausgewählt werden und müssen nicht wie bei dem Formularfeld: Auswahl alle manuell eingetragen werden. Die übrigen Einstellungsmöglichkeiten entsprechen jedoch denen des Auswahl-Formularfeldes. 
