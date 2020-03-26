@@ -11,7 +11,7 @@ Es öffnet sich ein Fenster, in welchem die Einzelheiten zur Einsendung eingeseh
 3. die CC-Emails (welchen Emails wird eine Kopie gesendet)
 4. BCC-Emails (welchen Emails wird eine Kopie gesendet ohne, dass man sieht wer diese Kopie noch bekommen hat)
 5. der Name des Formulars
-6. wenn die Einsendung getrackt wurde, ob die Mails gelesen wurde
+6. wenn die Einsendung getrackt wurde, ob die Mail gelesen wurde
 7. wann das Formular versandt worden ist
 8. und welche Daten mit dem Formular gesendet worden sind
 
